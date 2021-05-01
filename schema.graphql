@@ -1,0 +1,28 @@
+type Person {
+  _id: String!
+  index: Int!
+  picture: String!
+  age: String!
+  eyeColor: String!
+  name: String!
+  company: String!
+  email: String!
+  phone: String!
+  friends: [Friend]
+}
+
+type Friend {
+  _id: String!
+  index: Int!
+  picture: String!
+  age: String!
+  eyeColor: String!
+  name: String!
+  company: String!
+  email: String!
+  phone: String!
+}
+
+type Query {
+  list(name: String): [Person]
+}

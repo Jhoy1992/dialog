@@ -1,0 +1,46 @@
+2021-05-01T14:29:44.435Z - [Request Started] { query: query ($title: String) { list(title: $title) { id title description } }, variables: {"title":"item 2"}, operationName: null }
+2021-05-01T14:30:14.277Z - [Request Started] { query: query ($name: String) { list(title: $name) { _id name age } }, variables: {"name":"a"}, operationName: null }
+2021-05-01T14:30:23.895Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"a"}, operationName: null }
+2021-05-01T14:30:51.289Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"we"}, operationName: null }
+2021-05-01T14:30:54.728Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"we "}, operationName: null }
+2021-05-01T14:31:00.714Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"we stein"}, operationName: null }
+2021-05-01T14:31:27.366Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"web"}, operationName: null }
+2021-05-01T14:31:28.335Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"web"}, operationName: null }
+2021-05-01T14:31:32.104Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"we"}, operationName: null }
+2021-05-01T14:31:36.930Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"wee"}, operationName: null }
+2021-05-01T14:31:49.210Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena"}, operationName: null }
+2021-05-01T14:31:49.755Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena"}, operationName: null }
+2021-05-01T14:31:50.134Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena"}, operationName: null }
+2021-05-01T14:31:52.378Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:32:40.881Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:33:02.246Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:35:41.800Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:36:25.062Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:37:47.885Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Lena "}, operationName: null }
+2021-05-01T14:38:16.939Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Velenz "}, operationName: null }
+2021-05-01T14:38:24.039Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Velenz"}, operationName: null }
+2021-05-01T14:38:30.531Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Simmons"}, operationName: null }
+2021-05-01T14:38:44.674Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"Snow"}, operationName: null }
+2021-05-01T14:38:48.604Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":" Snow"}, operationName: null }
+2021-05-01T14:38:55.758Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"si ni"}, operationName: null }
+2021-05-01T14:39:12.290Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"si"}, operationName: null }
+2021-05-01T14:41:59.563Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:43:03.236Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age friends { _id } } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:43:28.594Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:43:35.175Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:43:54.059Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:43:55.057Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:48:09.763Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:48:17.350Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone friends } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:48:26.194Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age eyeColor name company email phone friends { _id } } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:48:44.168Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name age name friends { _id name } } }, variables: {"name":"si es"}, operationName: null }
+2021-05-01T14:57:40.977Z - [Request Started] { query: query ($title: String) { list(title: $title) { id } }, variables: {}, operationName: null }
+2021-05-01T14:57:57.585Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id } }, variables: {}, operationName: null }
+2021-05-01T14:58:52.268Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {}, operationName: null }
+2021-05-01T14:59:13.004Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":"ang daug"}, operationName: null }
+2021-05-01T14:59:17.633Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":"ang ry"}, operationName: null }
+2021-05-01T14:59:22.426Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":"ang y"}, operationName: null }
+2021-05-01T14:59:29.496Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":"an"}, operationName: null }
+2021-05-01T14:59:34.433Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":""}, operationName: null }
+2021-05-01T14:59:44.651Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {"name":"dot ings"}, operationName: null }
+2021-05-01T15:01:06.427Z - [Request Started] { query: query ($name: String) { list(name: $name) { _id name email friends { name } } }, variables: {}, operationName: null }
